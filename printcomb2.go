@@ -1,4 +1,4 @@
-package PrintComb2
+package piscine ".."
 
 func PrintComb2() {
 	for a := '0'; a <= '9'; a++ {
