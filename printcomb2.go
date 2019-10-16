@@ -23,5 +23,5 @@ func PrintComb2() {
 				}
 			}
 		}
-	}piscine
+	}
 }
