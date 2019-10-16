@@ -1,4 +1,6 @@
-package piscine
+package printcomb2
+
+import "github.com/01-edu/z01"
 
 func PrintComb2() {
 	for a := '0'; a <= '9'; a++ {
@@ -21,5 +23,5 @@ func PrintComb2() {
 				}
 			}
 		}
-	}
+	}piscine
 }
