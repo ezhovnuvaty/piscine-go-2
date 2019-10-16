@@ -1,5 +1,3 @@
-package PrintComb2
-
 import "github.com/01-edu/z01"
 
 func PrintComb2() {
